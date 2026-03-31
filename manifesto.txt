@@ -2,8 +2,8 @@
          MY OPEN SOURCE MANIFESTO                      
 =======================================================
 
-Author : Nikunj
-Date   : 29 March 2026
+Author : Anshika
+Date   : 31 March 2026
 
 -------------------------------------------------------
 
@@ -28,5 +28,5 @@ Open source is not just a licensing model.
 It is an argument about how the world should work.
 
 -------------------------------------------------------
-Signed: Nikunj | 29 March 2026
+Signed: Anshika | 31 March 2026
 =======================================================
