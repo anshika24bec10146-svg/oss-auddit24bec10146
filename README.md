@@ -3,8 +3,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | Nikunj |
-| **Registration Number** | 24BSA10037 |
+| **Student Name** | Anshika |
+| **Registration Number** | 24BEC10146 |
 | **Chosen Software** | Linux Kernel |
 | **License** | GNU General Public License v2 (GPL v2) |
 
